@@ -1,6 +1,6 @@
-git clone https://github.com/cuanh2333/dsss_code.git  
+git clone [https://github.com/cuanh2333/dsss_code.git  ](https://github.com/cuanh2333/stegano_audio_lab.git)
 
-cd dsss_code  
+cd lab
 
 tar -xvf dsss_code.tar  
 
