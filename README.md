@@ -1,4 +1,4 @@
-git clone [https://github.com/cuanh2333/dsss_code.git  ](https://github.com/cuanh2333/stegano_audio_lab.git)
+git clone [[https://github.com/cuanh2333/dsss_code.git](https://github.com/cuanh2333/stegano_audio_lab.git) 
 
 cd lab
 
